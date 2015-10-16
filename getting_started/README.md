@@ -22,9 +22,6 @@ By the end of this week, you should be able to:
 
 ## Notes
 
-* Many programmers coming to Go tends to bring the coding style and design patterns of their previous programming languages. Don't. Please try to write idomatic Go code as much as you can.
-* Everyone goes through "why doesn't Go have ____" or attempts to
-write Go in the style of their previously favorite language. It takes a
-while to learn the "go way" of doing this. 
+* "Everyone goes through 'why doesn't Go have ____' or attempts to write Go in the style of their previously favorite language. It takes a while to learn the 'go way' of doing this." 
 * "If you must read [this document](https://golang.org/ref/mem) to understand the behavior of your program, you are being to clever. Don't be clever"
 * Always formatting your Go code
