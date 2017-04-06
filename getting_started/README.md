@@ -22,6 +22,6 @@ By the end of this week, you should be able to:
 
 ## Notes
 
-* "Everyone goes through 'why doesn't Go have ____' or attempts to write Go in the style of their previously favorite language. It takes a while to learn the 'go way' of doing this." 
-* "If you must read [this document](https://golang.org/ref/mem) to understand the behavior of your program, you are being to clever. Don't be clever"
+* Everyone goes through 'why doesn't Go have ____' or attempts to write Go in the style of their previously favorite language. It takes a while to learn the 'go way' of doing this.
+* If you must read [this document](https://golang.org/ref/mem) to understand the behavior of your program, you are being to clever. Don't be clever
 * Always formatting your Go code
